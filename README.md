@@ -1,8 +1,8 @@
 # news-image-20261126
 
 [![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![make.fun · news-image-20261126 rank](https://make.fun/badge/vickyair1/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![make.fun · news-image-20261126 reward](https://make.fun/badge/vickyair1/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![make.fun · news-image-20261126 rank](https://make.fun/badge/news-image-20261126/vickyair1/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![make.fun · news-image-20261126 reward](https://make.fun/badge/news-image-20261126/vickyair1/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 One image summing up the world's news of **Thursday 26 November 2026** —
 a classic broadsheet front page drawn in code: 40 stories, 12 illustrated
